@@ -42,7 +42,7 @@ A professional GUI application that reverses any input string with support for m
 ### For End Users (No Python Required)
 
 1. **Download the installer:**
-   - Go to [Releases](https://github.com/yourusername/string-reverser/releases/tag/v1.0.0)
+   - Go to [Releases](https://github.com/yourusername/string-reverser/releases)
    - Download `StringReverser_Setup.exe`
    - Run the installer and follow the wizard
 
