@@ -18,7 +18,30 @@ A professional GUI application that reverses any input string with support for m
 
 ## 📸 Screenshots
 
-*[Add screenshots of your application here]*
+![license agreement](https://github.com/user-attachments/assets/cae02cef-fb7a-4142-8e34-168dd8071bea)
+
+### License Agreement
+![License Info](screenshots/license agreement.jpg)
+*License information*
+
+![create shortcut](https://github.com/user-attachments/assets/1582f5a9-5cf6-4598-88da-2791467a6b59)
+
+### Create Shortcut
+![Shortcut Creation](screenshots/create shortcut.jpg)
+*Easy access by creating a desktop icon*
+
+![icon](https://github.com/user-attachments/assets/eb588e34-268b-4496-a931-83a924a0f6c5)
+
+### Desktop Icon
+![Desktop Icon](screenshots/icon.jpg)
+*Desktop Icon*
+
+![reverse string demo](https://github.com/user-attachments/assets/30d8fd75-9259-4738-aa5f-1a5d60acdf43)
+
+### Reverse String Demo
+![Reverse String](screenshots/reverse string demo.jpg)
+*Text reversal in action*
+
 
 ## 🚀 Quick Start
 
